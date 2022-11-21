@@ -1,1 +1,20 @@
-/* Write your CSS here! */
+body {
+    display:block;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    background-color: aqua;
+}
+
+#mainHeading {
+    color:red;
+}
+
+p {
+    margin-left: 20px;
+}
+
+.funParagraph {
+    color: green;
+}
